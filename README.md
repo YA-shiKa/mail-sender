@@ -35,8 +35,8 @@ MailMingle is a lightweight Node.js application that allows users to send styled
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mailmingle.git
-cd mailmingle
+git clone https://github.com/YA-shiKa/mail-sender.git
+cd mail-sender
 ```
 ### 2. Install dependencies
 ```bash
